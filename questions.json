@@ -1,0 +1,22 @@
+[
+    {
+        "q": "What is the output of print(2**3)?",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "9"
+        ],
+        "answer_index": 2
+    },
+    {
+        "q": "Which data structure uses key-value pairs?",
+        "options": [
+            "List",
+            "Tuple",
+            "Dictionary",
+            "Set"
+        ],
+        "answer_index": 2
+    }
+]
